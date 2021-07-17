@@ -38,9 +38,6 @@ Must have a `configure.json` file in the repository with the following necessary
 
 ### Parameters description
 
-### Paramaters in deploy.json
-
-
 - The possible values of the `runtime` in which the code will be executed are:
     ```
         nodejs
