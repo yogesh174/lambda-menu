@@ -2,6 +2,7 @@
 
 # Assumption: AWS configured
 sudo apt-get update
+sudo apt-get install zip --assume-yes
 sudo apt-get install jq --assume-yes
 sudo apt-get install python3 --assume-yes
 sudo apt install nodejs --assume-yes
